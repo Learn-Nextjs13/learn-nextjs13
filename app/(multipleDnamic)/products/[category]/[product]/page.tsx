@@ -1,8 +1,8 @@
 export function generateStaticParams() {
     return [
-        { category: 'a', product: '1' },
-        { category: 'b', product: '2' },
-        { category: 'c', product: '3' },
+        { category: 't-shirt', product: '1' },
+        { category: 'pants', product: '2' },
+        { category: 'coat', product: '3' },
     ]
 }
    
