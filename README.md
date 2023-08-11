@@ -1,21 +1,19 @@
-# next-template
+# learn Nextjs 13
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A personal learning project for Nextjs 13 and based on a Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 
-## Usage
+## bug
+
+- [cannot use lucide-react](https://github.com/lucide-icons/lucide/issues/1482)
+
+please make sure ```"lucide-react": "0.263.1"``` before fixed
+
+
+## Template Usage with Radix UI
 
 ```bash
 npx create-next-app -e https://github.com/shadcn/next-template
 ```
-
-## Features
-
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
 
 ## License
 
